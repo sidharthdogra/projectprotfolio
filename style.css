@@ -432,7 +432,7 @@
         /* Tilted Photo */
         .about-photo {
             flex: 0 0 350px;
-            transform: rotate(-8deg);
+            transform: rotate(0deg);
             background: #fff;
             padding: 12px;
             box-shadow: 0 10px 30px rgba(0,0,0,0.5);
